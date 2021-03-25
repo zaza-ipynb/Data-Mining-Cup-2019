@@ -1,5 +1,6 @@
 # Data-Mining-Cup-2019
 Data Mining Cup 2019 Is a repository about Data Science project using Data Mining Cup dataset to predict fraud and non-fraudulent Transaction
+in self-check-out retail store machine.
 
 ## Dataset, Features & To-Do
 The **dmc.zip** contains the training and test set including the PDFs file
